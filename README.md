@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**MennaAllahMAbdulrahimShehata/MennaAllahMAbdulrahimShehata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Menna Allah Mohamed 👋
 
-Here are some ideas to get you started:
+🎓 Commerce Student | Aspiring Tech Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm exploring different areas of technology and building my skills through hands-on learning and practical projects.
+
+### 💻 Programming Languages
+- Python
+- SQL
+- HTML
+
+### 🤖 AI & Machine Learning
+- Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+
+### 📊 Data & Analytics
+- Data Analytics
+- Data Science
+- Data Engineering
+- Pandas, NumPy, Matplotlib & Seaborn
+
+### 🌐 Other Interests
+- Web Development
+
+### 🎯 My Goal
+To continuously learn, build practical projects, and discover where I can create the most value in technology.
+
+### 🔗 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/mennaallah-m-abdulrahim-a049823a0/)
