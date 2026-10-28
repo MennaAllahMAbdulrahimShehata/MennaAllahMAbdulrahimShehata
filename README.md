@@ -9,6 +9,8 @@ I'm exploring different areas of technology and building my skills through hands
 - Python
 - SQL
 - HTML
+- CSS
+- JavaScript
 - Git & Github
 
 ### 🤖 AI & Machine Learning
